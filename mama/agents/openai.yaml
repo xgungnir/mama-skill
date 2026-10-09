@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mama"
+  short_description: "Opt-in caring and proactive collaboration"
+  default_prompt: "Use the mama skill as a standing interaction preference for this conversation. Continue applying its principles on subsequent turns without requiring repeated invocation, as far as the Codex session context permits."
+
+policy:
+  allow_implicit_invocation: false
